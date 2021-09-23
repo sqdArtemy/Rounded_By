@@ -1,0 +1,4 @@
+{
+  "TestFramework": "Pytest",
+  "Interpreter": "Global|VisualStudio|Rounded_By (Python 3.9 (64-bit))"
+}
